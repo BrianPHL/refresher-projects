@@ -1,0 +1,16 @@
+{
+  "name": "refresher-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web", "app", "web app", "web application", "refresher",
+    "project", "projects", "node", "javascript", "typescript",
+    "web", "dev", "web dev", "web development", "development"
+  ],
+  "author": "blcpasco",
+  "license": "MIT",
+  "description": "A project that houses mini projects for refresher purposes."
+}

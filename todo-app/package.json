@@ -1,0 +1,17 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web", "app", "web app", "web application", "refresher",
+    "project", "projects", "web", "dev", "web dev",
+    "web development", "development", "todo", "todo app", 
+    "todo application", "html", "css", "html5", "css3"
+  ],
+  "author": "blcpasco",
+  "license": "MIT",
+  "description": "A simple, user-friendly, and responsive to-do web app."
+}
